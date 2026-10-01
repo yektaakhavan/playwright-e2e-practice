@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "قهوه اسپرسو", "nameEn": "Espresso", "price": 90000 },
+  { "id": 2, "name": "قهوه ترک", "nameEn": "Turkish Coffee", "price": 110000 },
+  { "id": 3, "name": "لاته", "nameEn": "Latte", "price": 130000 }
+]
